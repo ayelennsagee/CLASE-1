@@ -36,3 +36,7 @@ Imagen: ![texto alternativo](https://url-de-la-imagen.jpg)
 asi quedaría
 [![contexto para mi](https://www.patasencasa.com/sites/default/files/styles/article_detail_desktop/public/2024-07/meme-del-gato-riendo_0.jpg.webp?itok=ezIW4YiM)
 
+    bloques de código: option mas el corchete`
+```python print("helouu")```
+tablas:
+|artistas|twenty one pilots|
