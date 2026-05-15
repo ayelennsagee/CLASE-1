@@ -57,7 +57,7 @@ Tachado: ~~texto~~ option + el simbolo de asterisco, caracter "~" x2
 
 
 
-<u>texto<u>para destacar texto, "[]<u>"x2 
+<u>texto</u>para destacar texto, "[]<u>"x2 
 
 
 
