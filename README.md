@@ -20,7 +20,10 @@ Los *repositorios* que son carpetas del proyecto a registrar y el *Readme* es el
 
 Podemos observar que este caracter "#", utilizandolo de cierta forma podemos editar encabezados, como:
 
+
+
 Título nivel uno (#) Título nivel 2 (##) Título nivel 3 (###) 
+
 
 
 
@@ -34,6 +37,7 @@ Formato de texto:
 negrita: **texto** o __texto__
 cursiva: *texto* o _texto_ 
 negrita y cursiva ***texto***
+
 
 
 tachado: ~~texto~~ option + el simbolo de asterisco
