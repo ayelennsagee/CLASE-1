@@ -23,9 +23,18 @@ Podemos observar que este caracter "#", utilizandolo de cierta forma podemos edi
 Título nivel uno (#) Título nivel 2 (##) Título nivel 3 (###) 
 
 
-Formato de texto. negrita: **texto** o __texto__
+**Markdown** [*Negrita y Cursiva*]
+
+
+
+Formato de texto: 
+
+
+negrita: **texto** o __texto__
 cursiva: *texto* o _texto_ 
 negrita y cursiva ***texto***
+
+
 tachado: ~~texto~~ option + el simbolo de asterisco
 escapado de simbolos \#texto 
 [[texto]]para destacar texto 
