@@ -1,12 +1,11 @@
 # Clase 1  *INTRODUCCIÓN A GITHUB + MARKDOWN*
 
-GITHUB es una plataforma donde las personas guardan, organizan y colaboran en proyectos de programación y archivos digitales.
-Es una plataforma en la nube, permite almacenar códigos de fuente.
-Funciona como  una red social para programadores, facilitando la colaboración entre personas y equipos.
+**GITHUB** es una plataforma donde las personas guardan, organizan y colaboran en proyectos de programación y archivos digitales.
+Funciona como  una red social para programadores, facilitando la colaboración entre personas y equipos. 
 
 Dentro de la plataforma nos podemos encontrar con:
-Los **repositorios** que son carpetas del proyecto a registrar y el **Readme** es el documento donde explicas y/o registras tu proyecto.
-**Markdown** es el lenguaje, una forma de escribir texto con formato: negritas, títulos, listas, incluir enlaces o imágenes, saltos de linea, etc. Utilizas caracteres para escribir de cierta forma.
+Los *repositorios* que son carpetas del proyecto a registrar y el *Readme* es el documento donde explicas y/o registras tu proyecto.
+*Markdown* es el lenguaje, una forma de escribir texto con formato: negritas, títulos, listas, incluir enlaces o imágenes, saltos de linea, etc. Utilizas caracteres para escribir de cierta forma.
 
 
 ---
