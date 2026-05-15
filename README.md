@@ -4,6 +4,8 @@
 Funciona como  una red social para programadores, facilitando la colaboración entre personas y equipos. 
 
 Dentro de la plataforma nos podemos encontrar con:
+
+
 Los *repositorios* que son carpetas del proyecto a registrar y el *Readme* es el documento donde explicas y/o registras tu proyecto.
 *Markdown* es el lenguaje, una forma de escribir texto con formato: negritas, títulos, listas, incluir enlaces o imágenes, saltos de linea, etc. Utilizas caracteres para escribir de cierta forma.
 
