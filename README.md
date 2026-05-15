@@ -1,4 +1,4 @@
-# Clase 1  INTRODUCCIÓN A GITHUB + MARKDOWN
+# Clase 1  *INTRODUCCIÓN A GITHUB + MARKDOWN*
 
 GITHUB es una plataforma donde las personas guardan, organizan y colaboran en proyectos de programación y archivos digitales.
 Es una plataforma en la nube, permite almacenar códigos de fuente.
