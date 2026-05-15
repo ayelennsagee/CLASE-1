@@ -51,14 +51,7 @@ Podemos observar que para crear este formato de escritura, utizamos este caracte
 
 Tachado: ~~texto~~ option + el simbolo de asterisco, caracter "~" x2
 
-
-
-
-
-
-
-<u>texto</u>para destacar texto, "[]<u>"x2 
-
+---
 
 
 
