@@ -35,7 +35,13 @@ Formato de texto:
 
 
 negrita: **texto** o __texto__
+
+
+
 cursiva: *texto* o _texto_ 
+
+
+
 negrita y cursiva ***texto***
 
 
