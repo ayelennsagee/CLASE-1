@@ -11,6 +11,12 @@ Los *repositorios* que son carpetas del proyecto a registrar y el *Readme* es el
 
 
 ---
+**Markdown** [*Encabezados*]
+
+
+# Título grande
+## Subtítulo
+### Otro subtítulo
 
 Encabezados: titulo nivel uno (#) titulo nivel 2 (##) titulo nivel 3 (###) basicamente mientras mas chiquito el titulo más gatos y mas grande menos gatos 
 Formato de texto. negrita: **texto** o __texto__
