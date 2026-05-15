@@ -44,11 +44,23 @@ cursiva: *texto* o _texto_
 
 negrita y cursiva ***texto***
 
+Podemos observar que para crear este formato de escritura, utizamos este caracter "*" o también "_" para poder dejar algún texto en negrita, cursiva o ambas.
 
 
-tachado: ~~texto~~ option + el simbolo de asterisco
+
+
+tachado: ~~texto~~ option + el simbolo de asterisco, caracter "~" x2
+
+
+
 escapado de simbolos \#texto 
-[[texto]]para destacar texto 
+
+
+
+[[texto]]para destacar texto, "[]"x2 
+
+
+
 
 Cómo hacer listas:
 viñetas : *elemento a
