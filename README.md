@@ -34,45 +34,33 @@ Título nivel uno (#) Título nivel 2 (##) Título nivel 3 (###)
 Formato de texto: 
 
 
-negrita: **texto** o __texto__
+Negrita: **texto** o __texto__
 
 
 
-cursiva: *texto* o _texto_ 
+Cursiva: *texto* o _texto_ 
 
 
 
-negrita y cursiva ***texto***
+Negrita y cursiva ***texto***
 
 Podemos observar que para crear este formato de escritura, utizamos este caracter "*" o también "_" para poder dejar algún texto en negrita, cursiva o ambas.
 
 
 
 
-tachado: ~~texto~~ option + el simbolo de asterisco, caracter "~" x2
-
-
-
-escapado de simbolos \#texto 
-
-
-
-[[texto]]para destacar texto, "[]"x2 
+Tachado: ~~texto~~ option + el simbolo de asterisco, caracter "~" x2
 
 
 
 
-Cómo hacer listas:
-viñetas : *elemento a
 
-* elemento a
-*    helouu
 
-1. elemento
 
-2. elemtento
-     * subelemento
-     * 
+<u>texto<u>para destacar texto, "[]<u>"x2 
+
+
+
 
 lINKS Y IMAGENES 
 [nombre de la web](https://url.com)
